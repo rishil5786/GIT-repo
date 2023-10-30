@@ -1,0 +1,2 @@
+hgit add
+adding a new file 
